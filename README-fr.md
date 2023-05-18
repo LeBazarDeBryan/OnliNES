@@ -7,4 +7,4 @@
 
 #
 
-  <p>Le Projet est instable attendez vous à des bug.</p>
+  <p>Le Projet est instable, attendez-vous à des bugs.</p>

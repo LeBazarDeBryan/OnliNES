@@ -5,9 +5,9 @@
 var a=[['18@_','19@_'],['16@| *_)','17@/ *_)'],['6@_.----. _ |..|','6@_.----. _ /../'],'4@/............./',' _/..(...|.(.../',['/__.--|_|---|_|','/__.---|_|-|_|']],d=0,x=0,q=0,sp='';var b=['17@__',['16@(**)   ?','16@(**)  ?'],'6@_.----. __|^^|',a[3],a[4],a[5][0]];for(;d<70;d++)sp+='    ';d=0;
 function p(){var i,j,v='',s='',t=document.getElementById('x');if(d==60)q=1;if(q)q++;for(i=0;i<a.length;i++){v=(q?b[i]:a[i]);if(typeof v == 'object')v=v[d%v.length];if((j=v.indexOf('@'))>0){v=sp.substr(0,v.substr(0,j))+v.substring(j+1);}s+=sp.substr(0,x)+v+"\n";}t.innerHTML='<pre>'+s+'</pre>';if(q>20)q=0;if(d>150)d=x=0;else d++;if(!q)x++;setTimeout(p,150);}
 </script>
-<h1>Loading...</h1>
-<h1>Chargement</h1>
 </head>
 <body onload="javascript:p();"><center><table><td><div id="c"><pre id="x"></pre></div></td><td><hr/></td><td></td><td><hr/></td>
+<h1>Loading...</h1>
+<h1>Chargement</h1>
 </table></center>
 </body></html>

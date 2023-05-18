@@ -3,8 +3,9 @@
   
   | Nom | Raison |
   |-----|--------|
-  | <a href="https://www.youtube.com/@InkboxSoftware">Inkbox</a> | pour l'<a href="https://notin.tokyo/nes/">émulateur</a> |
+  | <a href="https://www.youtube.com/@InkboxSoftware">Inkbox</a> | pour l'émulateur <a href="https://notin.tokyo/nes/">NES</a> |
   | <a href="https://github.com/zorchenhimer">zorchenhimer (Nick) | pour le jeu <a href="https://github.com/zorchenhimer/nes-pong/releases/latest">pong</a> |
+  | <a href="https://github.com/humbertodias">humbertodias (Humberto Dias) | pour l'émulateur <a href="https://github.com/humbertodias/emscripten-js-snes-games">SNES</a> |
 
 #
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Credit</h1>
+  <h1>Credits</h1>
   
   | Name | Reason |
   |------|--------|

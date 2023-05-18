@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Credit</h1>
-  
-  | Name | Reason |
-  |------|--------|
-  | <a href="https://www.youtube.com/@InkboxSoftware">Inkbox</a> | for the <a href="https://notin.tokyo/nes/">emulator</a> |
+  <h1>README</h1>
+
+| <a href="README-fr.md">Français</a> | <a href="README-en.md">English</a> |
+|--------|-------|

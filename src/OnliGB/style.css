@@ -1,0 +1,207 @@
+@import "http://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic,600,600italic";
+
+body{
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+
+h1{
+	padding: 10px;
+	margin: 5px;
+	text-align: center;
+	font-weight: normal;
+	letter-spacing: 2px;
+}
+
+#wrapper{
+	width: 700px;
+	margin: 0 auto;
+}
+
+.left-column{
+	float: left;
+	width: 400px;
+}
+
+.right-column{
+	float:right;
+	width: 250px;
+}
+
+.title{
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 5px;
+}
+
+.button{
+	background: #80bfff;
+	cursor: pointer;
+	font-size: 16px;
+	font-weight: bold;
+	padding: 12px;
+	border-radius: 30px;
+	text-align: center;
+}
+.button:hover{
+	box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.3) inset;
+}
+
+.gb {
+	margin: 5px;
+	background: #d7d3d0;
+	border-radius: 10px;
+	text-align: center;
+	padding: 20px;
+}
+.gb .display {
+	padding: 10px;
+	background: #8c858b;
+	border-radius: 3px;
+}
+
+#display{
+	background: black;
+}
+#fps {
+	font-size: 8px;
+}
+
+.gb .controls {
+	position: relative;
+	text-transform: uppercase;
+	height: 200px;
+	margin: 20px 10px;
+	font-weight: bold;
+	color: rgba(255, 255, 255, 0.8);
+}
+.gb .controls > * {
+	position: absolute;
+}
+.gb .controls > .pressed {
+	box-shadow: 0 0 10px 10px rgba(255, 255, 255, 0.3) inset;
+}
+#key-up, #key-down, #key-left, #key-right {
+	width: 32px;
+	height: 32px;
+	background: #555;
+	line-height: 30px;
+	font-size: 22px;
+}
+#key-up {
+	left: 32px;
+	top: 0px;
+	border-radius: 8px 8px 0 0;
+}
+#key-down {
+	left: 32px;
+	top: 64px;
+	border-radius: 0 0 8px 8px;
+}
+#key-left {
+	left: 0px;
+	top: 32px;
+	border-radius: 8px 0 0 8px;
+}
+#key-right {
+	left: 64px;
+	top: 32px;
+	border-radius: 0 8px 8px 0;
+}
+#key-a, #key-b {
+	width: 32px;
+	height: 32px;
+	background: #9a2358;
+	line-height: 30px;
+	border-radius: 32px;
+	transform: rotate(-15deg);
+}
+#key-a::after, #key-b::after {
+	position: absolute;
+	left: 12px;
+	bottom: -26px;
+	color: #44418c;
+}
+#key-a {
+	right: 0;
+	top: 16px;
+}
+#key-a::after{
+	content: "A";
+}
+#key-b {
+	right: 48px;
+	top: 32px;
+}
+#key-b::after{
+	content: "B";
+}
+#key-start, #key-select {
+	width: 48px;
+	height: 18px;
+	background: #7d767b;
+	line-height: 14px;
+	border-radius: 32px;
+	transform: rotate(-15deg)
+}
+#key-start::after, #key-select::after {
+	position: absolute;
+	left: 0;
+	bottom: -20px;
+	color: #44418c;
+}
+#key-start {
+	bottom: 32px;
+	right: calc(50% - 72px);
+}
+#key-start::after {
+	content: "START";
+}
+#key-select {
+	bottom: 32px;
+	left: calc(50% - 72px);
+}
+#key-select::after {
+	content: "SELECT";
+}
+
+.emulator-controls {
+	background: rgba(75, 75, 60, 0.5);
+	border-radius: 3px;
+	padding: 5px;
+	display: flex;
+	justify-content: space-between;
+	align-content: center;
+	align-items: center;
+}
+
+#cartridge-data {
+	margin-top: 10px;
+	background: #b2acae;
+	padding: 12px 12px 12px 12px;
+	border-radius: 3px 20px 3px 3px;
+}
+#cartridge-data .title {
+	background: rgba(255, 255, 255, 0.5);
+	margin-bottom: 10px;
+	padding: 5px;
+	border-radius: 30px;
+}
+#cartridge{
+	border-radius: 3px;
+	background: black;
+	padding: 10px;
+	text-align: right;
+	font-size: 12px;
+	font-style: italic;
+	margin-bottom: 10px;
+}
+
+.copyright{
+	font-size: 12px;
+	margin: 0 0 8px 8px;
+}
+.copyright a{
+	color: #ffffff;
+	text-decoration: none;
+}

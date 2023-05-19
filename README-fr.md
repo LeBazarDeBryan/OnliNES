@@ -7,6 +7,7 @@
   | <a href="https://github.com/zorchenhimer">zorchenhimer (Nick)</a> | pour le jeu <a href="https://github.com/zorchenhimer/nes-pong/releases/latest">pong</a> |
   | <a href="https://github.com/humbertodias">humbertodias (Humberto Dias)</a> | pour l'émulateur <a href="https://github.com/humbertodias/emscripten-js-snes-games">SNES</a> |
   | <a href="https://github.com/alexaladren">alexaladren</a> | pour l'émulateur <a href="https://github.com/alexaladren/jsgameboy">Gameboy</a> |
+  | <a href="https://github.com/KittyPBoxx">KittyPBoxx</a> | pour l'émulateur <a href="https://github.com/KittyPBoxx/IodineGBAEnhanced">GBA</a> |
 
 #
 

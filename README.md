@@ -6,6 +6,8 @@
 #
 
 <h1>Demo</h1>
-
-<p><a href="https://lebazardebryan.github.io/Onlintendo/">Github</a></p>
-<p>--> <a href="https://onlintendo.vercel.app/">Vercel</a> <--</p>
+  
+  | Website | Badge |
+  |----------|-------|
+  | <a href="https://lebazardebryan.github.io/Onlintendo/">Github</a> | <img src="https://github.com/LeBazarDeBryan/Onlintendo/actions/workflows/pages/pages-build-deployment/badge.svg" /> |
+  | <a href="https://onlintendo.vercel.app/">Vercel</a> | <img src="https://therealsujitk-vercel-badge.vercel.app/?app=onlintendo" /> |

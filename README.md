@@ -8,4 +8,4 @@
 <h1>Demo</h1>
 
 <p><a href="https://lebazardebryan.github.io/Onlintendo/">Github</a></p>
-<p><a href="https://onlintendo.vercel.app/">Vercel</a></p>
+<p>--> <a href="https://onlintendo.vercel.app/">Vercel</a> <--</p>

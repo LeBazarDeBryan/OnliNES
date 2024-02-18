@@ -3,11 +3,11 @@
   
   | Name | Reason |
   |------|--------|
-  | <a href="https://www.youtube.com/@InkboxSoftware">Inkbox</a> | for the <a href="https://notin.tokyo/nes/">NES</a> emulator |
-  | <a href="https://github.com/zorchenhimer">zorchenhimer (Nick) | for the <a href="https://github.com/zorchenhimer/nes-pong/releases/latest">pong</a> game |
-  | <a href="https://github.com/humbertodias">humbertodias (Humberto Dias) | for the <a href="https://github.com/humbertodias/emscripten-js-snes-games">SNES</a> emulator |
-  | <a href="https://github.com/alexaladren">alexaladren</a> | for the <a href="https://github.com/alexaladren/jsgameboy">Gameboy</a> emulator |
-  | <a href="https://github.com/KittyPBoxx">KittyPBoxx</a> | for the <a href="https://github.com/KittyPBoxx/IodineGBAEnhanced">GBA</a> emulator |
+  | <a href="https://www.clictune.com/jxZb">Inkbox</a> | for the <a href="https://www.clictune.com/jxZg">NES</a> emulator |
+  | <a href="https://www.clictune.com/jxZk">zorchenhimer (Nick) | for the <a href="https://www.clictune.com/jxZn">pong</a> game |
+  | <a href="https://www.clictune.com/jxZq">humbertodias (Humberto Dias) | for the <a href="https://www.clictune.com/jxZv">SNES</a> emulator |
+  | <a href="https://www.clictune.com/jxZy">alexaladren</a> | for the <a href="https://www.clictune.com/jxZz">Gameboy</a> emulator |
+  | <a href="https://www.clictune.com/jxZA">KittyPBoxx</a> | for the <a href="https://www.clictune.com/jxZC">GBA</a> emulator |
 
 #
 

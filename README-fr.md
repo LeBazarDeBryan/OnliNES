@@ -3,11 +3,11 @@
   
   | Nom | Raison |
   |-----|--------|
-  | <a href="https://www.youtube.com/@InkboxSoftware">Inkbox</a> | pour l'émulateur <a href="https://notin.tokyo/nes/">NES</a> |
-  | <a href="https://github.com/zorchenhimer">zorchenhimer (Nick)</a> | pour le jeu <a href="https://github.com/zorchenhimer/nes-pong/releases/latest">pong</a> |
-  | <a href="https://github.com/humbertodias">humbertodias (Humberto Dias)</a> | pour l'émulateur <a href="https://github.com/humbertodias/emscripten-js-snes-games">SNES</a> |
-  | <a href="https://github.com/alexaladren">alexaladren</a> | pour l'émulateur <a href="https://github.com/alexaladren/jsgameboy">Gameboy</a> |
-  | <a href="https://github.com/KittyPBoxx">KittyPBoxx</a> | pour l'émulateur <a href="https://github.com/KittyPBoxx/IodineGBAEnhanced">GBA</a> |
+  | <a href="https://www.clictune.com/jxZb">Inkbox</a> | pour l'émulateur <a href="https://www.clictune.com/jxZg">NES</a> |
+  | <a href="https://www.clictune.com/jxZk">zorchenhimer (Nick)</a> | pour le jeu <a href="https://www.clictune.com/jxZn">pong</a> |
+  | <a href="https://www.clictune.com/jxZq">humbertodias (Humberto Dias)</a> | pour l'émulateur <a href="https://www.clictune.com/jxZv">SNES</a> |
+  | <a href="https://www.clictune.com/jxZy">alexaladren</a> | pour l'émulateur <a href="https://www.clictune.com/jxZz">Gameboy</a> |
+  | <a href="https://www.clictune.com/jxZA">KittyPBoxx</a> | pour l'émulateur <a href="https://github.com/KittyPBoxx/IodineGBAEnhanced">GBA</a> |
 
 #
 

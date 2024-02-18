@@ -1,6 +1,6 @@
 <div align="center">
 
-| <a href="README-fr.md">Français</a> | <a href="README-en.md">English</a> |
+| <a href="https://www.clictune.com/jxYP">Français</a> | <a href="https://www.clictune.com/jxYT">English</a> |
 |--------|-------|
 
 #
@@ -10,6 +10,6 @@
   
   | Website | Badge |
   |----------|-------|
-  | <a href="https://lebazardebryan.github.io/Onlintendo/">Github</a> | <img src="https://github.com/LeBazarDeBryan/Onlintendo/actions/workflows/pages/pages-build-deployment/badge.svg" /> |
-  | <a href="https://onlintendo.vercel.app/">Vercel</a> | <img src="https://therealsujitk-vercel-badge.vercel.app/?app=onlintendo" /> |
+  | <a href="https://www.clictune.com/jxYI">Github</a> | <a href="https://www.clictune.com/jxYX"><img src="https://github.com/LeBazarDeBryan/Onlintendo/actions/workflows/pages/pages-build-deployment/badge.svg" /></a> |
+  | <a href="https://www.clictune.com/jxYL">Vercel</a> | <a href="https://www.clictune.com/jxZ4"><img src="https://therealsujitk-vercel-badge.vercel.app/?app=onlintendo" /></a> |
 </details>
